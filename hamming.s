@@ -1,4 +1,3 @@
-#  gcc -no-pie hamming.s -o hamming
 
 # calls the user input
     .section .data
